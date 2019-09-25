@@ -77,11 +77,11 @@ function showScores() {
  
 // create questions here
 var questions = [
-    new Question("Hyper Text Markup Language Stand For?", ["JavaScript", "XHTML","CSS", "HTML"], "HTML"),
+    new Question(" HTML stands for?", ["Hyper Text Markup Language", "High Text Markup LanguageL","Hyper Tabular Markup Language", "None of these"], "Hyper Text Markup Language"),
     new Question("Which language is used for styling web pages?", ["HTML", "JQuery", "CSS", "XML"], "CSS"),
     new Question("Which is not a JavaScript Framework?", ["Python Script", "JQuery","Django", "NodeJS"], "Django"),
     new Question("Which is used for Connect To Database?", ["PHP", "HTML", "JS", "All"], "PHP"),
-    new Question("Webdevtrick.com is about..", ["Web Design", "Graphic Design", "SEO & Development", "All"], "All")
+    new Question("Correct HTML tag for the largest heading is", ["head", "h6", "heading", "h1"], "h1")
 ];
  
 // create quiz
